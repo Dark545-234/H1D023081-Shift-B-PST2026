@@ -2,7 +2,7 @@
 
 Rankaian schematic 3 LED
 
-![Schematic led](Skema Rangkaian.jpg)
+![Schematic led](skema.jpg)
 ---
 
 ### 2. Bagaimana program membuat efek LED berjalan dari kiri ke kanan?
