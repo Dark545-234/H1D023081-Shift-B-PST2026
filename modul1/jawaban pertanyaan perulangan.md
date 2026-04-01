@@ -1,7 +1,8 @@
 ### 1. Skema Rangkaian (Schematic) LED Berjalan
 
-Gunakan beberapa LED yang dihubungkan ke pin digital Arduino (misalnya pin 2 sampai 7), masing-masing LED diberi resistor, lalu dihubungkan ke GND. LED akan menyala secara bergantian membentuk efek berjalan (running LED).
+Rankaian schematic 3 LED
 
+![Schematic led](Skema Rangkaian.jpg)
 ---
 
 ### 2. Bagaimana program membuat efek LED berjalan dari kiri ke kanan?
@@ -111,10 +112,6 @@ Program ini mengatur LED agar menyala secara berurutan dari kiri ke kanan, kemud
 - `}`
   Penutup fungsi loop.
 
-## Catatan Penting
-
-- Perulangan kedua (kanan ke kiri) berada di dalam perulangan pertama, sehingga setiap satu langkah maju akan langsung diikuti langkah mundur.
-- Ini menyebabkan pola LED terlihat seperti maju sedikit lalu langsung kembali.
 
 ## Kesimpulan Alur Program
 
