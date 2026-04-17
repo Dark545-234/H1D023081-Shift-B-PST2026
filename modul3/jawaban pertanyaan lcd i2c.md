@@ -1,4 +1,4 @@
-# Pertanyaan Praktikum Inter Integrated Circuit (I2C)
+# Pertanyaan Praktikum 
 
 ---
 
