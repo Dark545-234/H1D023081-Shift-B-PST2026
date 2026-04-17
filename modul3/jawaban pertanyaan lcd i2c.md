@@ -150,3 +150,5 @@ Program menampilkan data potensiometer ke **Serial Monitor (UART)** dan **LCD (I
 | 532  | 2.60V    | 52%        |
 | :--- | :---     | :---       |
 dan seterusnya....
+
+![ss_lcd_i2c](ss_lcd_i2c.png)
