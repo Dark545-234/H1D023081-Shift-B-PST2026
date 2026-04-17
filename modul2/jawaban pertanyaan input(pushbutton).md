@@ -26,6 +26,9 @@ LED pada seven segment bisa tidak menyala karena beberapa faktor dari hardware m
 
 penambahan (increment) dan pengurangan (decrement) pada sistem counter dan
 berikan penjelasan disetiap baris kode nya dalam bentuk README.md!
+<<<<<<< HEAD
+
+=======
 
 **Jawab :**
 
@@ -135,3 +138,4 @@ void loop()
   lastDownState = downState;
 }
 ```
+
