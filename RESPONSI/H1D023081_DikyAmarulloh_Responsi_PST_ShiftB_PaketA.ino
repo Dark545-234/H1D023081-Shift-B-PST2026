@@ -36,7 +36,7 @@ void setup() {
   pinMode(ledMerah, OUTPUT);
   pinMode(ledHijau, OUTPUT);
   
-  pinMode(tombol, INPUT_PULLUP);
+  pinMode(tombolPin, INPUT_PULLUP);
 
   
   digitalWrite(ledMerah, High);
